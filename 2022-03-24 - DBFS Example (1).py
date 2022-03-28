@@ -96,7 +96,3 @@ for i in range (1,11):
 
 import matplotlib.pyplot as plt
 plt.plot(range(1,11),distance)
-
-# COMMAND ----------
-
-# MAGIC %sh pwd
